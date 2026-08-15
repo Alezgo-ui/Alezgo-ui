@@ -14,10 +14,9 @@ Coordinación de equipos remotos
 Comunicación efectiva
 Pensamiento analítico
 Resolución de problemas
-📌 Proyectos destacados
-
-(agrega aquí los enlaces a tus repositorios cuando estén listos)
 
 📫 Contacto
 
 aldo.a.esquivel.g@gmail.com · https://www.linkedin.com/in/aldo-alberto-esquivel-gomez-data-analyst/
+
+📌 Proyectos destacados
