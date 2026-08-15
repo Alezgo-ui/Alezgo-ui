@@ -19,4 +19,4 @@ Resolución de problemas
 
 aldo.a.esquivel.g@gmail.com · https://www.linkedin.com/in/aldo-alberto-esquivel-gomez-data-analyst/
 
-📌 Proyectos destacados
+📌 Proyectos destacados — mira los repositorios fijados abajo ⬇️⬇️⬇️
