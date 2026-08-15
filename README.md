@@ -9,12 +9,7 @@ Trabajo con SQL, Python y Power BI para convertir datos en decisiones. Vengo de 
 SQL · Python (Pandas) · Excel Avanzado · Power BI · DAX · Tableau · Análisis Exploratorio de Datos (EDA) · KPIs · Reporting
 
 🌐 Otras fortalezas
-
-Inglés avanzado 
-Coordinación de equipos remotos
-Comunicación efectiva
-Pensamiento analítico
-Resolución de problemas
+Inglés avanzado · Coordinación de equipos remotos · Comunicación efectiva · Pensamiento analítico · Resolución de problemas
 
 📫 Contacto
 
