@@ -14,6 +14,7 @@ Inglés avanzado · Coordinación de equipos remotos · Comunicación efectiva �
 
 📫 Contacto
 
-aldo.a.esquivel.g@gmail.com · https://www.linkedin.com/in/aldo-alberto-esquivel-gomez-data-analyst/
+aldo.a.esquivel.g@gmail.com  
+https://www.linkedin.com/in/aldo-alberto-esquivel-gomez-data-analyst/
 
 📌 Proyectos destacados — mira los repositorios fijados abajo ⬇️⬇️⬇️
